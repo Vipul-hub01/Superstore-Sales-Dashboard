@@ -7,7 +7,7 @@ It visualizes key KPIs like **Total Sales, Profit, Quantity**, and **Shipping Ti
 
 ## 📊 Dashboard Overview
 
-![Superstore Dashboard Preview](ibb.co/pBKJ8mX3)
+![Superstore Dashboard Preview](images/Dashboard_Preview.png)
 
 ### 🔹 Features
 - **Regional Analysis** (Central, East, South, West)
