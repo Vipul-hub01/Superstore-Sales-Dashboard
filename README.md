@@ -32,7 +32,7 @@ It visualizes key KPIs like **Total Sales, Profit, Quantity**, and **Shipping Ti
 ---
 
 ## ⚙️ Tools Used
-- **Power BI** (or Tableau / Excel / Python / etc.)
+- **Power BI** 
 - **Dataset:** Sample Superstore Dataset
 - **Visualization Types:** Bar Charts, Donut Charts, Line Graphs, Map Visuals
 
